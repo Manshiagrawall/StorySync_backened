@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="bloggiator:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf434e2-cfa4-4e36-b2d3-f4c9a020027b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/target/bloggiator-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_boot/blog_application/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_boot/blog_application/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_boot/blog_application/controller/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_boot/blog_application/controller/BlogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_boot/blog_application/controller/ImageUploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_boot/blog_application/controller/ImageUploadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_boot/blog_application/controller/PublicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_boot/blog_application/controller/PublicController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_boot/blog_application/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring_boot/blog_application/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +43,8 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/DELL/Downloads/StotySync_Project/blog-application/src/main/resources",
     "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RunManager">

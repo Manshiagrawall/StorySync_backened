@@ -19,7 +19,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 @RestController
-@CrossOrigin(origins = { "http://127.0.0.1:5500", "http://localhost:5500" })
+@CrossOrigin(origins = { "https://story-sync-frontend.vercel.app/" })
 @RequestMapping("/post")
 @Slf4j
 public class BlogController {

@@ -22,7 +22,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 @RestController
-@CrossOrigin(origins = { "http://127.0.0.1:5500", "http://localhost:5500" }) // Allow CORS for specific origins
+@CrossOrigin(origins = { "https://story-sync-frontend.vercel.app/" }) // Allow CORS for specific origins
 @RequestMapping("/public")
 public class PublicController {
     private static final Logger log = LoggerFactory.getLogger(PublicController.class);
