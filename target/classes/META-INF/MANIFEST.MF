@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.spring_boot.blog_application.BlogApplication
+

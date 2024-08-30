@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bf434e2-cfa4-4e36-b2d3-f4c9a020027b" name="Changes" comment="" />
+    <list default="true" id="4bf434e2-cfa4-4e36-b2d3-f4c9a020027b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/target/bloggiator-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,9 +28,12 @@
   "keyToString": {
     "Application.BlogApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/DELL/Downloads/blogApp - Copy/blogApp_personal_persuit - Copy/blog-application"
+    "last_opened_file_path": "C:/Users/DELL/Downloads/StotySync_Project/blog-application/src/main/resources",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RunManager">
